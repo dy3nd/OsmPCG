@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Static/Terrain/Standart/Ground037_2K-JPG_AmbientOcclusion.uasset
+Content/Static/Terrain/Standart/Ground037_2K-JPG_Color.uasset
+Content/Static/Terrain/Standart/Ground037_2K-JPG_Displacement.uasset
+Content/Static/Terrain/Standart/Ground037_2K-JPG_NormalGL.uasset
+Content/Static/Terrain/Standart/Ground037_2K-JPG_Roughness.uasset
+Content/Static/Terrain/Standart/M_PrototypeGrid.uasset
+Content/Static/Terrain/Standart/Terrain.uasset
