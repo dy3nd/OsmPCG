@@ -61,6 +61,11 @@
 		{
 			"Name": "PCGExternalDataInterop",
 			"Enabled": true
+		},
+		{
+			"Name": "SplineSnappingTool",
+			"Enabled": true,
+			"MarketplaceURL": "https://unrealengineresources.com/plugins"
 		}
 	]
 }
