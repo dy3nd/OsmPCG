@@ -79,3 +79,6 @@ Content/Static/Terrain/Standart/Ground037_2K-JPG_NormalGL.uasset
 Content/Static/Terrain/Standart/Ground037_2K-JPG_Roughness.uasset
 Content/Static/Terrain/Standart/M_PrototypeGrid.uasset
 Content/Static/Terrain/Standart/Terrain.uasset
+Content/OSM/Test/BP_GenerateSpline.uasset
+Content/OSM/Test/BP_Splinetest.uasset
+Content/OSM/Test/TestMap.umap
